@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="10/15/2019 11:52:29">
+  <assembly name="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" run-date="2019-10-15" run-time="11:52:29" total="21" passed="21" failed="0" skipped="0" time="0.244" errors="0">
+    <errors />
+    <collection total="2" passed="2" failed="0" skipped="0" name="Test collection for System.Dynamic.Test.JSONTest" time="0.048">
+      <test name="Stringify object as string" type="System.Dynamic.Test.JSONTest" method="Serialization" time="0.0462906" result="Pass">
+        <traits />
+      </test>
+      <test name="Parse json string to object" type="System.Dynamic.Test.JSONTest" method="Deserialization" time="0.0018791" result="Pass">
+        <traits />
+      </test>
+    </collection>
+    <collection total="6" passed="6" failed="0" skipped="0" name="Test collection for System.Dynamic.Test.ProxyTest" time="0.111">
+      <test name="List" type="System.Dynamic.Test.ProxyTest" method="List" time="0.0787482" result="Pass">
+        <traits />
+      </test>
+      <test name="Dynamically attach new property" type="System.Dynamic.Test.ProxyTest" method="NewProperties" time="0.0103847" result="Pass">
+        <traits />
+      </test>
+      <test name="Dictionary" type="System.Dynamic.Test.ProxyTest" method="Dictionary" time="0.0063497" result="Pass">
+        <traits />
+      </test>
+      <test name="Invoke method" type="System.Dynamic.Test.ProxyTest" method="MethodCall" time="0.0001845" result="Pass">
+        <traits />
+      </test>
+      <test name="Invoke action prop" type="System.Dynamic.Test.ProxyTest" method="ActionCall" time="0.0110560" result="Pass">
+        <traits />
+      </test>
+      <test name="Edit property" type="System.Dynamic.Test.ProxyTest" method="Edit" time="0.0044162" result="Pass">
+        <traits />
+      </test>
+    </collection>
+    <collection total="13" passed="13" failed="0" skipped="0" name="Test collection for System.Dynamic.Test.ReflectTest" time="0.085">
+      <test name="Is dictionary" type="System.Dynamic.Test.ReflectTest" method="IsDictionary" time="0.0515435" result="Pass">
+        <traits />
+      </test>
+      <test name="Is Action" type="System.Dynamic.Test.ReflectTest" method="IsAction" time="0.0004813" result="Pass">
+        <traits />
+      </test>
+      <test name="TryGetByPath" type="System.Dynamic.Test.ReflectTest" method="TrySetPropertyByPath" time="0.0144467" result="Pass">
+        <traits />
+      </test>
+      <test name="TryMethodCall" type="System.Dynamic.Test.ReflectTest" method="TryCall" time="0.0009513" result="Pass">
+        <traits />
+      </test>
+      <test name="TryGetByName" type="System.Dynamic.Test.ReflectTest" method="TrySetPropertyByName" time="0.0006873" result="Pass">
+        <traits />
+      </test>
+      <test name="Method Call" type="System.Dynamic.Test.ReflectTest" method="Call" time="0.0003752" result="Pass">
+        <traits />
+      </test>
+      <test name="SetByName" type="System.Dynamic.Test.ReflectTest" method="SetPropertyByName" time="0.0036149" result="Pass">
+        <traits />
+      </test>
+      <test name="Is Expando" type="System.Dynamic.Test.ReflectTest" method="IsExpando" time="0.0001339" result="Pass">
+        <traits />
+      </test>
+      <test name="SetByPath" type="System.Dynamic.Test.ReflectTest" method="SetPropertyByPath" time="0.0005518" result="Pass">
+        <traits />
+      </test>
+      <test name="TryGetByName" type="System.Dynamic.Test.ReflectTest" method="TryGetPropertyByName" time="0.0095162" result="Pass">
+        <traits />
+      </test>
+      <test name="GetByName" type="System.Dynamic.Test.ReflectTest" method="GetPropertyByName" time="0.0024954" result="Pass">
+        <traits />
+      </test>
+      <test name="Is List" type="System.Dynamic.Test.ReflectTest" method="IsList" time="0.0001414" result="Pass">
+        <traits />
+      </test>
+      <test name="Is action" type="System.Dynamic.Test.ReflectTest" method="IsAssignable" time="0.0002338" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>

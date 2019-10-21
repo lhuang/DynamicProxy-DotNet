@@ -1,0 +1,6 @@
+C:\~dev\Proxy\src\bin\Debug\netstandard2.1\proxy.deps.json
+C:\~dev\Proxy\src\bin\Debug\netstandard2.1\proxy.dll
+C:\~dev\Proxy\src\bin\Debug\netstandard2.1\proxy.pdb
+C:\~dev\Proxy\src\obj\Debug\netstandard2.1\proxy.csprojAssemblyReference.cache
+C:\~dev\Proxy\src\obj\Debug\netstandard2.1\proxy.dll
+C:\~dev\Proxy\src\obj\Debug\netstandard2.1\proxy.pdb

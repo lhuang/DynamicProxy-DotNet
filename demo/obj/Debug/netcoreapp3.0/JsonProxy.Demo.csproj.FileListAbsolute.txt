@@ -1,0 +1,12 @@
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.demo.exe
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.demo.deps.json
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.demo.runtimeconfig.json
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.demo.runtimeconfig.dev.json
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.demo.dll
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.demo.pdb
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.dll
+C:\~dev\JsonProxy\demo\bin\Debug\netcoreapp3.0\jsonproxy.pdb
+C:\~dev\JsonProxy\demo\obj\Debug\netcoreapp3.0\jsonproxy.demo.csprojAssemblyReference.cache
+C:\~dev\JsonProxy\demo\obj\Debug\netcoreapp3.0\jsonproxy.demo.csproj.CopyComplete
+C:\~dev\JsonProxy\demo\obj\Debug\netcoreapp3.0\jsonproxy.demo.dll
+C:\~dev\JsonProxy\demo\obj\Debug\netcoreapp3.0\jsonproxy.demo.pdb

@@ -1,0 +1,12 @@
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.demo.exe
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.demo.deps.json
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.demo.runtimeconfig.json
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.demo.runtimeconfig.dev.json
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.demo.dll
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.demo.pdb
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.dll
+C:\~dev\Proxy\demo\bin\Debug\netcoreapp3.0\proxy.pdb
+C:\~dev\Proxy\demo\obj\Debug\netcoreapp3.0\proxy.demo.csprojAssemblyReference.cache
+C:\~dev\Proxy\demo\obj\Debug\netcoreapp3.0\proxy.demo.csproj.CopyComplete
+C:\~dev\Proxy\demo\obj\Debug\netcoreapp3.0\proxy.demo.dll
+C:\~dev\Proxy\demo\obj\Debug\netcoreapp3.0\proxy.demo.pdb

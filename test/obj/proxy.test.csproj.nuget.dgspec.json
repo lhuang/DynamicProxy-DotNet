@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\~dev\\Proxy\\test\\proxy.test.csproj": {}
+  },
+  "projects": {
+    "c:\\~dev\\Proxy\\src\\proxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\~dev\\Proxy\\src\\proxy.csproj",
+        "projectName": "proxy",
+        "projectPath": "c:\\~dev\\Proxy\\src\\proxy.csproj",
+        "packagesPath": "C:\\Users\\lh802\\.nuget\\packages\\",
+        "outputPath": "c:\\~dev\\Proxy\\src\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lh802\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-alpha1-014153\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\~dev\\Proxy\\test\\proxy.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\~dev\\Proxy\\test\\proxy.test.csproj",
+        "projectName": "proxy.test",
+        "projectPath": "c:\\~dev\\Proxy\\test\\proxy.test.csproj",
+        "packagesPath": "C:\\Users\\lh802\\.nuget\\packages\\",
+        "outputPath": "c:\\~dev\\Proxy\\test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lh802\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "c:\\~dev\\Proxy\\src\\proxy.csproj": {
+                "projectPath": "c:\\~dev\\Proxy\\src\\proxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.9.0, )"
+            },
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "ReportGenerator": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "XunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[2.1.26, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "dotnet-reportgenerator-cli": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0-preview7-27912-14, 3.0.0-preview7-27912-14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0-preview7-27912-14, 3.0.0-preview7-27912-14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-alpha1-014153\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

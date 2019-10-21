@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="0c452ae6-fd1c-4fcc-b5a7-326dd134407b" name="lh802@DESKTOP-H335EF1 2019-10-15 11:12:08" runUser="DESKTOP-H335EF1\lh802" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-10-15T11:12:08.1333213-04:00" queuing="2019-10-15T11:12:08.1333225-04:00" start="2019-10-15T11:12:06.7366888-04:00" finish="2019-10-15T11:12:08.1997163-04:00" />
+  <TestSettings name="default" id="8c2a889e-5900-4bfe-aa66-5e78df4bdeee">
+    <Deployment runDeploymentRoot="lh802_DESKTOP-H335EF1_2019-10-15_11_12_08" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="6c2ca398-9845-4cec-847d-720e10da0fb5" testId="bb21bc93-000d-ccf8-756c-a9fd68abcaa6" testName="Edit property" computerName="DESKTOP-H335EF1" duration="00:00:00.0046296" startTime="2019-10-15T11:12:08.0864878-04:00" endTime="2019-10-15T11:12:08.0865042-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c2ca398-9845-4cec-847d-720e10da0fb5" />
+    <UnitTestResult executionId="dc98fd86-0233-4e9e-a4cc-edabce639192" testId="2ebe641b-b622-a5ae-2e34-95fee3d279b4" testName="GetByName" computerName="DESKTOP-H335EF1" duration="00:00:00.0022939" startTime="2019-10-15T11:12:08.0844158-04:00" endTime="2019-10-15T11:12:08.0844160-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc98fd86-0233-4e9e-a4cc-edabce639192" />
+    <UnitTestResult executionId="de484c64-308f-47ce-b528-7be7fe03cd78" testId="877fa6db-0c75-f805-ccf8-c3689badba92" testName="Invoke action prop" computerName="DESKTOP-H335EF1" duration="00:00:00.0139883" startTime="2019-10-15T11:12:08.0843638-04:00" endTime="2019-10-15T11:12:08.0843640-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de484c64-308f-47ce-b528-7be7fe03cd78" />
+    <UnitTestResult executionId="0ed054d2-8a5c-4e7a-a660-8fd4f7d4bd7b" testId="d7d29be0-7ff4-7216-67bf-1bd121559c54" testName="TryGetByName" computerName="DESKTOP-H335EF1" duration="00:00:00.0006294" startTime="2019-10-15T11:12:08.0476533-04:00" endTime="2019-10-15T11:12:08.0476544-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ed054d2-8a5c-4e7a-a660-8fd4f7d4bd7b" />
+    <UnitTestResult executionId="c7bd8a70-0248-446a-830b-db502b4e2b1e" testId="c585130c-54fe-a23d-b38b-03c1e1bb1d49" testName="SetByPath" computerName="DESKTOP-H335EF1" duration="00:00:00.0005534" startTime="2019-10-15T11:12:08.0842574-04:00" endTime="2019-10-15T11:12:08.0842576-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7bd8a70-0248-446a-830b-db502b4e2b1e" />
+    <UnitTestResult executionId="1c74f93e-3e6a-48ca-9895-9b9f90cd9745" testId="ae8e3029-e648-dfd7-115e-117b7b12f353" testName="Is List" computerName="DESKTOP-H335EF1" duration="00:00:00.0001603" startTime="2019-10-15T11:12:08.0863815-04:00" endTime="2019-10-15T11:12:08.0863822-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c74f93e-3e6a-48ca-9895-9b9f90cd9745" />
+    <UnitTestResult executionId="41dc04fe-ee6e-4d38-9601-e94ab9a2f2aa" testId="30762405-1a6b-2b8c-e9b1-070f7c9b2acc" testName="Stringify object as string" computerName="DESKTOP-H335EF1" duration="00:00:00.0479650" startTime="2019-10-15T11:12:08.0312801-04:00" endTime="2019-10-15T11:12:08.0313930-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="41dc04fe-ee6e-4d38-9601-e94ab9a2f2aa" />
+    <UnitTestResult executionId="20dad25f-a79e-4b41-b31c-2666e51cce8d" testId="2f044f08-de50-c939-9553-65dd63551694" testName="TryMethodCall" computerName="DESKTOP-H335EF1" duration="00:00:00.0008239" startTime="2019-10-15T11:12:08.0469682-04:00" endTime="2019-10-15T11:12:08.0469694-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20dad25f-a79e-4b41-b31c-2666e51cce8d" />
+    <UnitTestResult executionId="a01b68b4-3c4e-44b9-b8e6-86cf2fee08b9" testId="4bb28881-9fd8-caa3-7af0-f18d27bc811f" testName="Is dictionary" computerName="DESKTOP-H335EF1" duration="00:00:00.0529663" startTime="2019-10-15T11:12:08.0355209-04:00" endTime="2019-10-15T11:12:08.0355218-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a01b68b4-3c4e-44b9-b8e6-86cf2fee08b9" />
+    <UnitTestResult executionId="37f816c6-5b89-40e3-aa11-8f14fe34ac23" testId="0886f3b1-d959-65c6-58fa-6993ae6aa459" testName="Is Expando" computerName="DESKTOP-H335EF1" duration="00:00:00.0001350" startTime="2019-10-15T11:12:08.0841973-04:00" endTime="2019-10-15T11:12:08.0841975-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="37f816c6-5b89-40e3-aa11-8f14fe34ac23" />
+    <UnitTestResult executionId="b066889e-4db1-4a83-8b9f-3af4b1828322" testId="282ac001-47fd-0957-fc25-7c5769810c90" testName="Is action" computerName="DESKTOP-H335EF1" duration="00:00:00.0002232" startTime="2019-10-15T11:12:08.0864471-04:00" endTime="2019-10-15T11:12:08.0864474-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b066889e-4db1-4a83-8b9f-3af4b1828322" />
+    <UnitTestResult executionId="7ae10de8-0236-4442-9827-3118a5a0ded2" testId="33d55fc2-b12c-7c49-ba72-6ceca337ce3b" testName="Invoke method" computerName="DESKTOP-H335EF1" duration="00:00:00.0001838" startTime="2019-10-15T11:12:08.0840810-04:00" endTime="2019-10-15T11:12:08.0840814-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ae10de8-0236-4442-9827-3118a5a0ded2" />
+    <UnitTestResult executionId="9adea64f-5278-453b-9d07-924e4f977a65" testId="3a244eee-fafe-e673-34d9-52822a548021" testName="Dynamically attach new property" computerName="DESKTOP-H335EF1" duration="00:00:00.0768736" startTime="2019-10-15T11:12:08.0837972-04:00" endTime="2019-10-15T11:12:08.0837980-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9adea64f-5278-453b-9d07-924e4f977a65" />
+    <UnitTestResult executionId="cc023243-c850-4855-92ab-cbe4f438e5ed" testId="abd3b727-d826-e864-8786-d036d1a93bb9" testName="TryGetByName" computerName="DESKTOP-H335EF1" duration="00:00:00.0089207" startTime="2019-10-15T11:12:08.0843125-04:00" endTime="2019-10-15T11:12:08.0843127-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cc023243-c850-4855-92ab-cbe4f438e5ed" />
+    <UnitTestResult executionId="0f2eaead-f838-4492-bcae-f8b52d1bc26e" testId="abf434da-2bc5-09a5-0da0-f369fd7ed81b" testName="Is Action" computerName="DESKTOP-H335EF1" duration="00:00:00.0006016" startTime="2019-10-15T11:12:08.0376291-04:00" endTime="2019-10-15T11:12:08.0376296-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f2eaead-f838-4492-bcae-f8b52d1bc26e" />
+    <UnitTestResult executionId="ffaa0097-fd2f-4ee7-95a6-e19778852063" testId="8e468b44-a040-c91b-9c3a-19a8d3e0c15a" testName="TryGetByPath" computerName="DESKTOP-H335EF1" duration="00:00:00.0145233" startTime="2019-10-15T11:12:08.0460545-04:00" endTime="2019-10-15T11:12:08.0460562-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ffaa0097-fd2f-4ee7-95a6-e19778852063" />
+    <UnitTestResult executionId="7702e622-6ec4-4465-b91b-a50974228db5" testId="e6b0c7d1-0ce7-f22b-c0fb-0a8c8ef64dbd" testName="SetByName" computerName="DESKTOP-H335EF1" duration="00:00:00.0033594" startTime="2019-10-15T11:12:08.0841397-04:00" endTime="2019-10-15T11:12:08.0841399-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7702e622-6ec4-4465-b91b-a50974228db5" />
+    <UnitTestResult executionId="4a8339c0-d2a7-497c-9235-5f14af1847fb" testId="35839626-7eed-f994-9aa9-56325333d9b1" testName="Method Call" computerName="DESKTOP-H335EF1" duration="00:00:00.0003491" startTime="2019-10-15T11:12:08.0480535-04:00" endTime="2019-10-15T11:12:08.0480545-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a8339c0-d2a7-497c-9235-5f14af1847fb" />
+    <UnitTestResult executionId="5339f946-45de-4594-9586-9807a4a561bc" testId="f1c3ac45-db6e-820f-2bb4-29a6305dc234" testName="Parse json string to object" computerName="DESKTOP-H335EF1" duration="00:00:00.0018240" startTime="2019-10-15T11:12:08.0376938-04:00" endTime="2019-10-15T11:12:08.0376940-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5339f946-45de-4594-9586-9807a4a561bc" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TryMethodCall" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="2f044f08-de50-c939-9553-65dd63551694">
+      <Execution id="20dad25f-a79e-4b41-b31c-2666e51cce8d" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="TryMethodCall" />
+    </UnitTest>
+    <UnitTest name="SetByPath" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="c585130c-54fe-a23d-b38b-03c1e1bb1d49">
+      <Execution id="c7bd8a70-0248-446a-830b-db502b4e2b1e" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="SetByPath" />
+    </UnitTest>
+    <UnitTest name="Is List" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="ae8e3029-e648-dfd7-115e-117b7b12f353">
+      <Execution id="1c74f93e-3e6a-48ca-9895-9b9f90cd9745" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="Is List" />
+    </UnitTest>
+    <UnitTest name="Is dictionary" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="4bb28881-9fd8-caa3-7af0-f18d27bc811f">
+      <Execution id="a01b68b4-3c4e-44b9-b8e6-86cf2fee08b9" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="Is dictionary" />
+    </UnitTest>
+    <UnitTest name="Invoke method" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="33d55fc2-b12c-7c49-ba72-6ceca337ce3b">
+      <Execution id="7ae10de8-0236-4442-9827-3118a5a0ded2" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ProxyTest" name="Invoke method" />
+    </UnitTest>
+    <UnitTest name="Is Expando" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="0886f3b1-d959-65c6-58fa-6993ae6aa459">
+      <Execution id="37f816c6-5b89-40e3-aa11-8f14fe34ac23" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="Is Expando" />
+    </UnitTest>
+    <UnitTest name="Dynamically attach new property" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="3a244eee-fafe-e673-34d9-52822a548021">
+      <Execution id="9adea64f-5278-453b-9d07-924e4f977a65" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ProxyTest" name="Dynamically attach new property" />
+    </UnitTest>
+    <UnitTest name="TryGetByName" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="d7d29be0-7ff4-7216-67bf-1bd121559c54">
+      <Execution id="0ed054d2-8a5c-4e7a-a660-8fd4f7d4bd7b" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="TryGetByName" />
+    </UnitTest>
+    <UnitTest name="TryGetByName" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="abd3b727-d826-e864-8786-d036d1a93bb9">
+      <Execution id="cc023243-c850-4855-92ab-cbe4f438e5ed" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="TryGetByName" />
+    </UnitTest>
+    <UnitTest name="Parse json string to object" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="f1c3ac45-db6e-820f-2bb4-29a6305dc234">
+      <Execution id="5339f946-45de-4594-9586-9807a4a561bc" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.JSONTest" name="Parse json string to object" />
+    </UnitTest>
+    <UnitTest name="GetByName" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="2ebe641b-b622-a5ae-2e34-95fee3d279b4">
+      <Execution id="dc98fd86-0233-4e9e-a4cc-edabce639192" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="GetByName" />
+    </UnitTest>
+    <UnitTest name="Invoke action prop" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="877fa6db-0c75-f805-ccf8-c3689badba92">
+      <Execution id="de484c64-308f-47ce-b528-7be7fe03cd78" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ProxyTest" name="Invoke action prop" />
+    </UnitTest>
+    <UnitTest name="Is action" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="282ac001-47fd-0957-fc25-7c5769810c90">
+      <Execution id="b066889e-4db1-4a83-8b9f-3af4b1828322" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="Is action" />
+    </UnitTest>
+    <UnitTest name="Stringify object as string" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="30762405-1a6b-2b8c-e9b1-070f7c9b2acc">
+      <Execution id="41dc04fe-ee6e-4d38-9601-e94ab9a2f2aa" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.JSONTest" name="Stringify object as string" />
+    </UnitTest>
+    <UnitTest name="Method Call" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="35839626-7eed-f994-9aa9-56325333d9b1">
+      <Execution id="4a8339c0-d2a7-497c-9235-5f14af1847fb" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="Method Call" />
+    </UnitTest>
+    <UnitTest name="Edit property" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="bb21bc93-000d-ccf8-756c-a9fd68abcaa6">
+      <Execution id="6c2ca398-9845-4cec-847d-720e10da0fb5" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ProxyTest" name="Edit property" />
+    </UnitTest>
+    <UnitTest name="TryGetByPath" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="8e468b44-a040-c91b-9c3a-19a8d3e0c15a">
+      <Execution id="ffaa0097-fd2f-4ee7-95a6-e19778852063" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="TryGetByPath" />
+    </UnitTest>
+    <UnitTest name="SetByName" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="e6b0c7d1-0ce7-f22b-c0fb-0a8c8ef64dbd">
+      <Execution id="7702e622-6ec4-4465-b91b-a50974228db5" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="SetByName" />
+    </UnitTest>
+    <UnitTest name="Is Action" storage="c:\~dev\proxy\test\bin\debug\netcoreapp3.0\proxy.test.dll" id="abf434da-2bc5-09a5-0da0-f369fd7ed81b">
+      <Execution id="0f2eaead-f838-4492-bcae-f8b52d1bc26e" />
+      <TestMethod codeBase="C:\~dev\Proxy\test\bin\Debug\netcoreapp3.0\proxy.test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="System.Dynamic.Test.ReflectTest" name="Is Action" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="bb21bc93-000d-ccf8-756c-a9fd68abcaa6" executionId="6c2ca398-9845-4cec-847d-720e10da0fb5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ebe641b-b622-a5ae-2e34-95fee3d279b4" executionId="dc98fd86-0233-4e9e-a4cc-edabce639192" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="877fa6db-0c75-f805-ccf8-c3689badba92" executionId="de484c64-308f-47ce-b528-7be7fe03cd78" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7d29be0-7ff4-7216-67bf-1bd121559c54" executionId="0ed054d2-8a5c-4e7a-a660-8fd4f7d4bd7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c585130c-54fe-a23d-b38b-03c1e1bb1d49" executionId="c7bd8a70-0248-446a-830b-db502b4e2b1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae8e3029-e648-dfd7-115e-117b7b12f353" executionId="1c74f93e-3e6a-48ca-9895-9b9f90cd9745" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30762405-1a6b-2b8c-e9b1-070f7c9b2acc" executionId="41dc04fe-ee6e-4d38-9601-e94ab9a2f2aa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2f044f08-de50-c939-9553-65dd63551694" executionId="20dad25f-a79e-4b41-b31c-2666e51cce8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4bb28881-9fd8-caa3-7af0-f18d27bc811f" executionId="a01b68b4-3c4e-44b9-b8e6-86cf2fee08b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0886f3b1-d959-65c6-58fa-6993ae6aa459" executionId="37f816c6-5b89-40e3-aa11-8f14fe34ac23" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="282ac001-47fd-0957-fc25-7c5769810c90" executionId="b066889e-4db1-4a83-8b9f-3af4b1828322" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33d55fc2-b12c-7c49-ba72-6ceca337ce3b" executionId="7ae10de8-0236-4442-9827-3118a5a0ded2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a244eee-fafe-e673-34d9-52822a548021" executionId="9adea64f-5278-453b-9d07-924e4f977a65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="abd3b727-d826-e864-8786-d036d1a93bb9" executionId="cc023243-c850-4855-92ab-cbe4f438e5ed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="abf434da-2bc5-09a5-0da0-f369fd7ed81b" executionId="0f2eaead-f838-4492-bcae-f8b52d1bc26e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e468b44-a040-c91b-9c3a-19a8d3e0c15a" executionId="ffaa0097-fd2f-4ee7-95a6-e19778852063" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e6b0c7d1-0ce7-f22b-c0fb-0a8c8ef64dbd" executionId="7702e622-6ec4-4465-b91b-a50974228db5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35839626-7eed-f994-9aa9-56325333d9b1" executionId="4a8339c0-d2a7-497c-9235-5f14af1847fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1c3ac45-db6e-820f-2bb4-29a6305dc234" executionId="5339f946-45de-4594-9586-9807a4a561bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="19" executed="19" passed="19" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.0 (64-bit .NET Core 3.0.0-preview8-28405-07)&#xD;
+[xUnit.net 00:00:00.51]   Discovering: proxy.test&#xD;
+[xUnit.net 00:00:00.55]   Discovered:  proxy.test&#xD;
+[xUnit.net 00:00:00.56]   Starting:    proxy.test&#xD;
+[xUnit.net 00:00:00.74]   Finished:    proxy.test&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

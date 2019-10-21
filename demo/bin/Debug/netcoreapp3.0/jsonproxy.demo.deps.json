@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "jsonproxy.demo/1.0.0": {
+        "dependencies": {
+          "jsonproxy": "1.0.0"
+        },
+        "runtime": {
+          "jsonproxy.demo.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.6.0": {},
+      "jsonproxy/1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.6.0"
+        },
+        "runtime": {
+          "jsonproxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jsonproxy.demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kxn3M2rnAGy5N5DgcIwcE8QTePWU/XiYcQVzn9HqTls2NKluVzVSmVWRjK7OUPWbljCXuZxHyhEz9kPRIQeXow==",
+      "path": "microsoft.csharp/4.6.0",
+      "hashPath": "microsoft.csharp.4.6.0.nupkg.sha512"
+    },
+    "jsonproxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
